@@ -1,0 +1,10 @@
+{
+  "blogs": [
+    {
+      "title": "This is called!",
+      "body": "My name is shivam vishwakarma, I am from somewhere from the earth and is called something special",
+      "author": "shivam",
+      "id": 1
+    }
+  ]
+}
